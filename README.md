@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=5000&pause=700&color=36BCF7&center=true&vCenter=true&width=900&lines=👋+Hi+there,+I'm+K!;Business+Data+Analyst;Excel+|+Tableau+|+Power+BI+|+MySQL+|+Python+|+Azure" />
 </p>
 
-# 👋 Hi there, I'm K.
+# 👋 Hi there, I'm K!
 
 🎯 **Business Data Analyst | Turning data into insights & decisions**
 
