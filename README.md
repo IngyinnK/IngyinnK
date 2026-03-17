@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=👋+Hi+there,+I'm+K!;Business+Data+Analyst;Excel+|+Tableau+|+Power+BI+|+MySQL+|+Python+|+Azure" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=5000&pause=700&color=36BCF7&center=true&vCenter=true&width=900&lines=👋+Hi+there,+I'm+K!;Business+Data+Analyst;Excel+|+Tableau+|+Power+BI+|+MySQL+|+Python+|+Azure" />
 </p>
 
 # 👋 Hi there, I'm K.
@@ -74,17 +74,21 @@
 
 ---
 
-## 📂 Featured Projects
-👉 *Add your best projects here*
-- 🔹 Project 1 – Description  
-- 🔹 Project 2 – Description  
-- 🔹 Project 3 – Description  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IngyinnK&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=IngyinnK&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngyinnK&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: [Your LinkedIn URL]  
-- 📧 Email: [Your Email]  
+- 💼 LinkedIn: [https://www.linkedin.com/in/ingyinn-kyaw/]  
 
 ---
 
