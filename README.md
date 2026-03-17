@@ -87,8 +87,7 @@
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: [https://www.linkedin.com/in/ingyinn-kyaw/]  
+👉 Explore my repositories below to see how I transform data into actionable insights that support business decisions. 
 
 ---
 
